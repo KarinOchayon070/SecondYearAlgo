@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CelebrityProblem.cpp" />
     <ClCompile Include="FindMaxMin.cpp" />
     <ClCompile Include="MajorityProblem.cpp" />
   </ItemGroup>
